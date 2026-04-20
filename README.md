@@ -12,7 +12,7 @@ R3F(WebGL) 기반 3D 히어로, 가로 스크럽 섹션, 행성 레이어 패럴
 
 ## Live Demo
 
-Vercel 배포 예정
+https://r3f-scroll-showcase.vercel.app/
 
 ## Overview
 
