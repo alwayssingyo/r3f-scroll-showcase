@@ -1,0 +1,23 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="18" fill="#050505"/>
+  <circle cx="32" cy="32" r="21" fill="url(#planetGlow)"/>
+  <circle cx="32" cy="32" r="14" fill="#050505"/>
+  <ellipse cx="32" cy="32" rx="24" ry="10" transform="rotate(-18 32 32)" stroke="url(#orbitStroke)" stroke-width="2.2"/>
+  <circle cx="17" cy="40" r="2.2" fill="#F3F3F3"/>
+  <circle cx="45" cy="18" r="1.7" fill="#C0D0FF"/>
+  <circle cx="48" cy="44" r="1.5" fill="#FFB88A"/>
+  <defs>
+    <radialGradient id="planetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(26 21) rotate(48.1798) scale(29.0689)">
+      <stop offset="0.04" stop-color="#FFFFFF"/>
+      <stop offset="0.18" stop-color="#DEE7FF"/>
+      <stop offset="0.44" stop-color="#9CB0FF"/>
+      <stop offset="0.74" stop-color="#2B2F3E"/>
+      <stop offset="1" stop-color="#0A0A0D"/>
+    </radialGradient>
+    <linearGradient id="orbitStroke" x1="13" y1="25" x2="52" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="0.48" stop-color="#A9BCFF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#FFD1A6" stop-opacity="0.52"/>
+    </linearGradient>
+  </defs>
+</svg>
